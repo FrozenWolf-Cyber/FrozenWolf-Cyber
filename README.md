@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I am Gokul Adethya, currently pursuing my Bachelor's in Computer Science from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/).I am Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us. I like to listen to music and jog when I am free.
+I am Gokul Adethya, currently a freshman in [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in Computer Science Department.I am a Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us. I like to listen to music and jog when I am free.
 
 Find out more about me & feel free to connect with me here:
 
