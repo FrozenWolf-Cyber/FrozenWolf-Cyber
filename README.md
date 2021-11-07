@@ -73,5 +73,5 @@ Find out more about me & feel free to connect with me here:
 
 
 <p align="center">
-   <img src="https://github.com/Asmit2952/FrozenWolf-Cyber/blob/output/github-contribution-grid-snake.svg" alt="snake">
+   <img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/output/github-contribution-grid-snake.svg" alt="snake">
 </p>
