@@ -2,7 +2,7 @@
 
 <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE">
 
-I am Gokul Adethya, currently pursuing my Bachelor's in Computer Science from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/).I am Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
+I am Gokul Adethya, currently pursuing my Bachelor's in Computer Science from [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/).I am Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us. I like to listen to music and jog when I am free.
 
 Find out more about me & feel free to connect with me here:
 
@@ -16,12 +16,13 @@ Find out more about me & feel free to connect with me here:
 	<a href="https://dev.to/frozenwolf">
 		<img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" />
 	</a>
-  <!-- <a href="https://FrozenWolf-Cyber.github.io/">
-		<img src="https://img.shields.io/badge/portfolio-1AA260?style=for-the-badge&logo=About.me&logoColor=white" />
-	</a> -->
-  <a href="mailto:frozenwolf2003.com@gmail.com">
+  	<a href="mailto:frozenwolf2003.com@gmail.com">
 		<img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
 	</a>
+  	<a href="https://discord.gg/hhk9Degq">
+		<img src="https://img.shields.io/badge/%3CServer%3E-%237289DA.svg?style=for-the-badge&logo=discord&logoColor=white" />
+	</a>
+	
 </p>
 
 ---
@@ -45,7 +46,7 @@ Find out more about me & feel free to connect with me here:
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 
-### 💻 Deep Learning Libraries
+### :man_technologist: Deep Learning Libraries
 
 ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white)
 ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
@@ -61,6 +62,7 @@ Find out more about me & feel free to connect with me here:
 ![Atom](https://img.shields.io/badge/Atom-%2366595C.svg?style=for-the-badge&logo=atom&logoColor=white)
 ![Jupyter Notebook](https://img.shields.io/badge/jupyter-%23FA0F00.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
+![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
 ## 📈 Stats
 
@@ -68,8 +70,6 @@ Find out more about me & feel free to connect with me here:
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrozenWolf-Cyber&show_icons=true&hide_border=true&theme=radical" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenWolf-Cyber&hide_border=true&theme=radical" />
 </p>
-
-
 
 <p align="center">
    <img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/output/github-contribution-grid-snake.svg" alt="snake">
