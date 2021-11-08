@@ -1,9 +1,16 @@
-# Hey, I am Gokul! Great to see you here! <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px">
+<!-- # Hey, I am Gokul! Great to see you here! <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px"> -->
 <!-- 
 <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
-<img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/main/src/header_n.jpg">
+<img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/main/src/header_new.jpg">
 
-I am Gokul Adethya, currently a freshman in [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in Computer Science Department.I am a Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us. I like to listen to music and jog when I am free.
+I am Gokul Adethya, currently a freshman in [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in Computer Science Department.I am a Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
+
+### ⚡ Fun fact :
+
+ - 👯 I’m looking to collaborate on projects that are using Python.
+ - 🌱 I’m currently learning JavaScript and Neural Netoworks in Python.
+ - 🎵 I love to hear music while jogging.
+
 
 ### Let's Connect ☕
 
@@ -28,7 +35,7 @@ I am Gokul Adethya, currently a freshman in [National Institute of Technology Ti
 
 ---
 
-![FrozenWolf's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FrozenWolf-Cyber&hide_border=true&theme=redical)
+![FrozenWolf's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=FrozenWolf-Cyber&hide_border=true&theme=rogue&bg_color=172F45&color=BDDFFF&line=96BAFF)
 
 ---
 
@@ -68,8 +75,8 @@ I am Gokul Adethya, currently a freshman in [National Institute of Technology Ti
 ## 📈 Stats
 
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrozenWolf-Cyber&show_icons=true&hide_border=true&theme=radical" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenWolf-Cyber&hide_border=true&theme=radical" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrozenWolf-Cyber&show_icons=true&hide_border=true&theme=prussian" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenWolf-Cyber&hide_border=true&theme=prussian" />
 </p>
 
 <p align="center">
