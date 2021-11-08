@@ -89,7 +89,7 @@ I am Gokul Adethya, currently a freshman in the [National Institute of Technolog
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=FrozenWolf-Cyber&hide_border=true&theme=jolly" />
 </p>
 <p align="center">
-	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenWolf-Cyber&layout=compact&theme=jolly" />
+	<img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FrozenWolf-Cyber&layout=compact&theme=jolly&hide=jupyter%20notebook" />
 </p>
 
 <p align="center">
