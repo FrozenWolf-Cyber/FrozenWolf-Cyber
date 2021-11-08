@@ -39,7 +39,7 @@ I am Gokul Adethya, currently a freshman in the [National Institute of Technolog
 
 ---
 
-## ⚡ Tech Stack
+## Familiar With :
 
 ### 🚀 Languages
 
@@ -72,7 +72,17 @@ I am Gokul Adethya, currently a freshman in the [National Institute of Technolog
 ![PyCharm](https://img.shields.io/badge/pycharm-143?style=for-the-badge&logo=pycharm&logoColor=black&color=black&labelColor=green)
 ![Sublime Text](https://img.shields.io/badge/sublime_text-%23575757.svg?style=for-the-badge&logo=sublime-text&logoColor=important)
 
-## 📈 Stats
+### 🧑🏻‍💻 OS 
+
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=for-the-badge&logo=ubuntu&logoColor=white)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white)
+![Android](https://img.shields.io/badge/Android-3DDC84?style=for-the-badge&logo=android&logoColor=white)
+
+
+
+<img src="https://github.githubassets.com/images/modules/logos_page/Octocat.png" width="50px" align="left"> 
+
+## Github Stats :
 
 <p align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=FrozenWolf-Cyber&show_icons=true&hide_border=true&theme=jolly" />
