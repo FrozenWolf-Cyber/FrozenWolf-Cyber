@@ -1,6 +1,3 @@
-<!-- # Hey, I am Gokul! Great to see you here! <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/wave.gif?token=ATQS65XWY4MME7NJYAZ4LCTBN34AU" width="30px"> -->
-<!-- 
-<img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
 <img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/main/src/header.jpg">
 
 I am Gokul Adethya, currently a freshman in the [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in the Computer Science Department.I am a Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
@@ -15,6 +12,7 @@ I am Gokul Adethya, currently a freshman in the [National Institute of Technolog
 ### Let's Connect ☕
 
 <p align="center">
+	
 	<a href="https://twitter.com/FrozenW17210314">
 		<img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" />
 	</a>
