@@ -3,7 +3,8 @@
 <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
 <img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/main/src/header.jpg">
 
-I am Gokul Adethya, a 3rd year student at the [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in the Computer Science Department. I am a deep-learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
+I am Gokul Adethya, a 3rd year student at the [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in the Computer Science Department. I am a deep-learning enthusiast. I am deeply interested in contributing to the human-centric domain of ML and AI, which will help aid humans in day-to-day life, such as in health care, using computer vision, reinforcement learning, and natural language processing.
+
 [Google Scholar](https://scholar.google.com/citations?user=m8n5yo8AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/gokul-adethya/)
 ### ⚡ Fun fact :
 
