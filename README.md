@@ -3,12 +3,11 @@
 <img src="https://raw.githubusercontent.com/FrozenWolf-Cyber/FrozenWolf-Cyber/master/src/header_.png?token=ATQS65TR7ETTG5RLJUDIDBLBN34HE"> -->
 <img src="https://github.com/FrozenWolf-Cyber/FrozenWolf-Cyber/blob/main/src/header.jpg">
 
-I am Gokul Adethya, currently a freshman in the [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in the Computer Science Department.I am a Deep Learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
-
+I am Gokul Adethya, a 3rd year student at the [National Institute of Technology Tiruchirappalli](https://www.nitt.edu/) in the Computer Science Department. I am a deep-learning enthusiast. I am happy to collaborate with creative projects that can help improve the quality of human life and boost the technological advancements made by us.
+[Google Scholar](https://scholar.google.com/citations?user=m8n5yo8AAAAJ&hl=en) [LinkedIn](https://www.linkedin.com/in/gokul-adethya/)
 ### ⚡ Fun fact :
 
- - 👯 I’m looking to collaborate on projects that are using Python.
- - 🌱 I’m currently learning JavaScript and Neural Netoworks in Python.
+ - 👯 I’m looking to collaborate on projects involving ML/AI.
  - 🎵 I love to hear music while jogging.
 
 
